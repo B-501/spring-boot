@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: B501
+Build-Jdk: 12.0.1
+Implementation-Title: test2
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.example
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/test2
+Created-By: Maven Integration for Eclipse
+
